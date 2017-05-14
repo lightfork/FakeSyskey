@@ -27,9 +27,15 @@ SHA256......: 3CD01BE261A9A4690BB820C2CD3F2B456D0F0C5EFDA947BBAC4CFE5BF734256A
 # File Version Info
 
 Copyright.......: Copyright © Certified Technicians 2016
+
 Product: Fake...: Syskey Application
+
 Original name...: syskey.exe
+
 Internal name...: syskey.exe
+
 File version....: 1.0.0.0
+
 Description.....: syskey 
+
 Comments........: Fake Syskey Application
